@@ -1,0 +1,31 @@
+_repo: Tuscan-Sculpture-of-the-Fifteenth-CenturyA-Collection-of-Sixteen-Pictures-Reproducing-Works-b__33252
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurll, Estelle M. (Estelle May)
+    alias: Hurll, Estelle May
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '4845'
+    url: http://www.gutenberg.org/2009/agents/4845
+description: ''
+gutenberg_issued: '2010-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33252'
+  lccn: '02010356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sculpture, Italian'
+- !lcc 'NB'
+title: 'Tuscan Sculpture of the Fifteenth Century
+
+  A Collection of Sixteen Pictures Reproducing Works by Donatello, the Della Robia,
+  Mino da Fiesole, and Others, with Introduction'
+url: http://www.gutenberg.org/ebooks/33252
